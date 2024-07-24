@@ -1,0 +1,17 @@
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+<script>
+
+//Hello World Using Javascript
+// const heading = document.createElement("h1");
+// heading.innerHTML="Hello world from javascript !! ";
+// const root = document.getElementById("root");
+// root.appendChild(heading);
+
+//Hello World Using React
+// const heading=React.createElement("h1",{},"Hello World from React !!");
+// const root=ReactDOM.createRoot(document.getElementById("root"));
+// root.render(heading);
+        
+</script>

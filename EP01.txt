@@ -1,0 +1,14 @@
+1)To create Hello world Program using Javascript:
+
+<body>
+    <div id="root"></div>
+    <script>
+        debugger
+        const heading=document.createElement("h1");
+        heading.innerHTML="Hello world from Js!!";
+        const root=document.getElementById('root');
+        root.appendChild(heading);
+    </script>
+</body>
+
+2)

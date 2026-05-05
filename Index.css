@@ -1,3 +1,5 @@
-#heading1{
-    color: red;
+#heading,
+#heading2 {
+  color: rgb(136, 14, 55);
+  text-align: center;
 }

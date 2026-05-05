@@ -1,19 +1,22 @@
-const parent=React.createElement("div",{id:"parent"},
-    [React.createElement("div",{id:"child"},
-        [React.createElement("h1",{id:"heading"},"This is h1 tag"),
-            React.createElement("h2",{id:"heading2"},"This is h2 tag")
-        ]
-    ),
-    React.createElement("div",{id:"child2"},
-        [React.createElement("h1",{id:"heading3"},"This is h1 tag"),
-            React.createElement("h2",{id:"heading4"},"This is h2 tag")
-        ]
-    )]
+const root = ReactDOM.createRoot(document.getElementById("root"));
 
+const heading = React.createElement(
+  "h1",
+  { id: "heading" },
+  "Hello World from React",
 );
-
-
-console.log(parent);
-// const heading=React.createElement("h1",{id:"heading1"},"Hello world from React");
- const root=ReactDOM.createRoot(document.getElementById("root"));
- root.render(parent);
+const heading2 = React.createElement(
+  "h2",
+  { id: "heading2" },
+  "Hello World from React",
+);
+const child1 = React.createElement("div", { id: "child1" }, [
+  heading,
+  heading2,
+]);
+const child2 = React.createElement("div", { id: "child2" }, [
+  heading,
+  heading2,
+]);
+const parent = React.createElement("div", { id: "parent" }, [child1, child2]);
+root.render(parent);

@@ -1,0 +1,89 @@
+Step I
+Donwload Git | GitBash
+
+Step II
+Open the Git | GitBash
+
+Step III
+Configure you username and email - will following commands.
+
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+Step IV
+Verify your Settings (i.e.Verify your username and emial) by following command.
+
+git config --global --list
+
+Step V
+Intitialize the Git Repository.
+
+cd /path/to/your/project
+git init
+
+Step VI
+Clone a Remote Repository
+
+git clone https://github.com/username/repository.git
+
+--------------This is the basic setup needed for the GIT------------------------
+
+After this working on the GIT Commands.
+
+git status - use for check the files commited or stages in the repository.
+
+Quick workfloe example :
+
+git status
+git add .
+git commit -m "Added new feature"
+
+Create the Git Repository - into the GitHub.
+Copy the URL and write the below command in the gitbash to bind your remote repository  with local:
+
+git remote add origin https://github.com/yashrajput1976/CommunityClassroom-Git.git
+
+To check which remote repository has been attached to the LocalRepo check out the below command:
+
+git remote -v
+
+Then after to add changes to the Remote Repository use below command:
+
+Step I - Check the branch you are working on - result will be "master" for the first time.
+Step II - Push the file on to the Remote branch  - git push origin master 
+
+
+To Restore any file from staged to local:  git restore --staged index.html
+
+To work on the any other remote Repositoty just go on GitHub and Fork that project to your account and copy the URL of that respective project/repo and clone with below command:
+
+git clone https://github.com/yashrajput1976/CommunityClassroom-Git.git
+
+///////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

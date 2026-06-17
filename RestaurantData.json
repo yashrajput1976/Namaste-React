@@ -1,0 +1,1421 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "502595",
+              "name": "Gopal Locho",
+              "cloudinaryImageId": "yqkhknvrvuswcewjv0o7",
+              "locality": "Sayedpura",
+              "areaName": "Sayedpura",
+              "costForTwo": "₹290 for two",
+              "cuisines": ["Snacks", "Street Food"],
+              "avgRating": 4.6,
+              "parentId": "89036",
+              "avgRatingString": "4.6",
+              "totalRatingsString": "1.3K+",
+              "promoted": true,
+              "adTrackingId": "cid=74ae92b7-ff6e-4d0e-8f31-3401cca3b69f~p=0~adgrpid=74ae92b7-ff6e-4d0e-8f31-3401cca3b69f#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=502595~plpr=COLLECTION~eid=daed58d5-f791-4e43-8a9e-32cb1555283f~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 17,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 19:00:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "android/static-assets/icons/big_rx.png",
+                    "description": "bolt!"
+                  },
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "Serves only 100% vegetarian food, with no non-veg items."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "aggregatedDiscountInfoV2": {},
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "imageId": "android/static-assets/icons/big_rx.png",
+                          "description": "bolt!"
+                        }
+                      },
+                      {
+                        "attributes": {
+                          "theme": "",
+                          "imageId": "v1695133679/badges/Pure_Veg111.png",
+                          "description": "Serves only 100% vegetarian food, with no non-veg items."
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {},
+                  "textBased": {}
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "5.2K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "74ae92b7-ff6e-4d0e-8f31-3401cca3b69f",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=502595&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "129584",
+              "name": "Surendranagar Snacks",
+              "cloudinaryImageId": "ybuucwipmuknuyypsdkm",
+              "locality": "Housing Society",
+              "areaName": "Varachha",
+              "costForTwo": "₹250 for two",
+              "cuisines": ["Pizzas"],
+              "avgRating": 4.5,
+              "veg": true,
+              "parentId": "197800",
+              "avgRatingString": "4.5",
+              "totalRatingsString": "7.1K+",
+              "promoted": true,
+              "adTrackingId": "cid=14a9e2e6-cb5a-41f3-b6e0-b6f34d34b926~p=2~adgrpid=14a9e2e6-cb5a-41f3-b6e0-b6f34d34b926#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=129584~plpr=COLLECTION~eid=e9533cf6-ccc5-43e6-b042-8aad3831adbf~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 20,
+                "lastMileTravel": 3.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "3.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 20:15:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "Serves only 100% vegetarian food, with no non-veg items."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textExtendedBadges": {},
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "theme": "",
+                          "imageId": "v1695133679/badges/Pure_Veg111.png",
+                          "description": "Serves only 100% vegetarian food, with no non-veg items."
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "14a9e2e6-cb5a-41f3-b6e0-b6f34d34b926",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=129584&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "757133",
+              "name": "Shree Ganesh Alupuri & Rasawala Khaman",
+              "cloudinaryImageId": "f31c9c2bd3c812653c13e977a41540eb",
+              "locality": "Varachha",
+              "areaName": "Dabholi",
+              "costForTwo": "₹100 for two",
+              "cuisines": ["Indian", "Snacks"],
+              "avgRating": 4.3,
+              "veg": true,
+              "parentId": "447090",
+              "avgRatingString": "4.3",
+              "totalRatingsString": "223",
+              "promoted": true,
+              "adTrackingId": "cid=f077a692-66e7-4ff3-8bc7-8d1221162dde~p=5~adgrpid=f077a692-66e7-4ff3-8bc7-8d1221162dde#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=757133~plpr=COLLECTION~eid=e6044f93-9f74-41e2-9515-b1e8bc0bf1af~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 24,
+                "lastMileTravel": 4.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "4.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 19:00:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "Serves only 100% vegetarian food, with no non-veg items."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "theme": "",
+                          "imageId": "v1695133679/badges/Pure_Veg111.png",
+                          "description": "Serves only 100% vegetarian food, with no non-veg items."
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "₹125 OFF",
+                "subHeader": "ABOVE ₹249",
+                "discountTag": "FLAT DEAL",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "f077a692-66e7-4ff3-8bc7-8d1221162dde",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=757133&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "974307",
+              "name": "Shree Ganesh Aloopuri & Rasawala Khaman",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/18/df000399-3835-4173-bcc0-07a55c56e926_974307.jpg",
+              "locality": "Adajan",
+              "areaName": "L P Savani",
+              "costForTwo": "₹200 for two",
+              "cuisines": ["Gujarati", "Fast Food"],
+              "avgRating": 4.5,
+              "veg": true,
+              "parentId": "570207",
+              "avgRatingString": "4.5",
+              "totalRatingsString": "357",
+              "promoted": true,
+              "adTrackingId": "cid=e032fdbb-3e7b-4c3b-b392-4c8d37585984~p=6~adgrpid=e032fdbb-3e7b-4c3b-b392-4c8d37585984#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=974307~plpr=COLLECTION~eid=f6b1b27c-5368-4d2b-93e4-75b049106fd7~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 8.1,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "8.1 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 19:00:00",
+                "opened": true
+              },
+              "badges": {},
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "imageBased": {},
+                  "textExtendedBadges": {},
+                  "textBased": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "70% OFF",
+                "subHeader": "UPTO ₹130",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "e032fdbb-3e7b-4c3b-b392-4c8d37585984",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=974307&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "228880",
+              "name": " Jalasai Locho & Khaman",
+              "cloudinaryImageId": "ne6l9f2jsjp5vpbvext3",
+              "locality": "Gotalawadi",
+              "areaName": "Gotalawadi, Katargam",
+              "costForTwo": "₹200 for two",
+              "cuisines": [
+                "Gujarati",
+                "Snacks",
+                "Street Food",
+                "Fast Food",
+                "Indian"
+              ],
+              "avgRating": 4.4,
+              "veg": true,
+              "parentId": "418110",
+              "avgRatingString": "4.4",
+              "totalRatingsString": "1.6K+",
+              "promoted": true,
+              "adTrackingId": "cid=4c4ad9de-d8e8-4d9d-b70e-a6de4566ada2~p=7~adgrpid=4c4ad9de-d8e8-4d9d-b70e-a6de4566ada2#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=228880~plpr=COLLECTION~eid=2305b436-48da-4557-8c35-9621ea589e04~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 20,
+                "lastMileTravel": 1.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "1.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 19:45:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "android/static-assets/icons/big_rx.png",
+                    "description": "bolt!"
+                  },
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "Serves only 100% vegetarian food, with no non-veg items."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "imageId": "android/static-assets/icons/big_rx.png",
+                          "description": "bolt!"
+                        }
+                      },
+                      {
+                        "attributes": {
+                          "imageId": "v1695133679/badges/Pure_Veg111.png",
+                          "description": "Serves only 100% vegetarian food, with no non-veg items.",
+                          "theme": ""
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "4c4ad9de-d8e8-4d9d-b70e-a6de4566ada2",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=228880&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "70517",
+              "name": "Mr. Dhokla",
+              "cloudinaryImageId": "tkgj3rjmrr15mby3ibzs",
+              "locality": "Hirabaug",
+              "areaName": "Adajan",
+              "costForTwo": "₹200 for two",
+              "cuisines": ["Gujarati"],
+              "avgRating": 4.4,
+              "veg": true,
+              "parentId": "5954",
+              "avgRatingString": "4.4",
+              "totalRatingsString": "11K+",
+              "promoted": true,
+              "adTrackingId": "cid=f4765ef0-744c-4be4-a44c-fc1efb871d61~p=9~adgrpid=f4765ef0-744c-4be4-a44c-fc1efb871d61#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=70517~plpr=COLLECTION~eid=d0703275-acf9-4078-8ed4-6dad8cf50183~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 24,
+                "lastMileTravel": 5.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "5.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 19:30:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "brand_cards/Badges%202026/50_Best%20in%20Dhokla2026.png",
+                    "description": "Top-rated for Dhokla, based on user votes."
+                  },
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "Serves only 100% vegetarian food, with no non-veg items."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "description": "Top-rated for Dhokla, based on user votes.",
+                          "theme": "",
+                          "imageId": "brand_cards/Badges%202026/50_Best%20in%20Dhokla2026.png"
+                        }
+                      },
+                      {
+                        "attributes": {
+                          "theme": "",
+                          "imageId": "v1695133679/badges/Pure_Veg111.png",
+                          "description": "Serves only 100% vegetarian food, with no non-veg items."
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "f4765ef0-744c-4be4-a44c-fc1efb871d61",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=70517&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "401459",
+              "name": "Radhe Dhokla-(Punjabi, Chinese, Thali & Biryani)",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/12/7c9d4830-9876-428d-a41a-220cfa0a8621_401459.jpg",
+              "locality": "Ring Road",
+              "areaName": "Ring Road",
+              "costForTwo": "₹300 for two",
+              "cuisines": [
+                "Gujarati",
+                "Biryani",
+                "Chinese",
+                "North Indian",
+                "Punjabi",
+                "Indian",
+                "Thalis"
+              ],
+              "avgRating": 4.6,
+              "veg": true,
+              "parentId": "521471",
+              "avgRatingString": "4.6",
+              "totalRatingsString": "23K+",
+              "promoted": true,
+              "adTrackingId": "cid=dbe8e6b6-35c8-4e19-8bcd-e4cea43dcd2c~p=11~adgrpid=dbe8e6b6-35c8-4e19-8bcd-e4cea43dcd2c#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=401459~plpr=COLLECTION~eid=721843fe-b147-4150-b3fe-6203f81f28a2~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 19,
+                "lastMileTravel": 2.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "2.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 23:00:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "android/static-assets/icons/big_rx.png",
+                    "description": "bolt!"
+                  },
+                  {
+                    "imageId": "brand_cards/Badges%202026/54_Best%20in%20Gujarati2026.png",
+                    "description": "Top-rated for Gujarati, based on user votes."
+                  },
+                  {
+                    "imageId": "brand_cards/Badges%202026/26_Best%20in%20North%20Indian2026.png",
+                    "description": "Top-rated for North Indian, based on user votes."
+                  },
+                  {
+                    "imageId": "brand_cards/Badges%202026/39_Best%20in%20Biryani2026.png",
+                    "description": "Top-rated for Biryani, based on user votes."
+                  },
+                  {
+                    "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.png",
+                    "description": "Top-rated for Bolt, based on user votes."
+                  },
+                  {
+                    "imageId": "brand_cards/Badges%202026/50_Best%20in%20Dhokla2026.png",
+                    "description": "Top-rated for Dhokla, based on user votes."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "imageId": "android/static-assets/icons/big_rx.png",
+                          "description": "bolt!"
+                        }
+                      },
+                      {
+                        "attributes": {
+                          "description": "Top-rated for Gujarati, based on user votes.",
+                          "theme": "",
+                          "imageId": "brand_cards/Badges%202026/54_Best%20in%20Gujarati2026.png"
+                        }
+                      },
+                      {
+                        "attributes": {
+                          "description": "Top-rated for North Indian, based on user votes.",
+                          "theme": "",
+                          "imageId": "brand_cards/Badges%202026/26_Best%20in%20North%20Indian2026.png"
+                        }
+                      },
+                      {
+                        "attributes": {
+                          "imageId": "brand_cards/Badges%202026/39_Best%20in%20Biryani2026.png",
+                          "description": "Top-rated for Biryani, based on user votes.",
+                          "theme": ""
+                        }
+                      },
+                      {
+                        "attributes": {
+                          "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.png",
+                          "description": "Top-rated for Bolt, based on user votes.",
+                          "theme": ""
+                        }
+                      },
+                      {
+                        "attributes": {
+                          "imageId": "brand_cards/Badges%202026/50_Best%20in%20Dhokla2026.png",
+                          "description": "Top-rated for Dhokla, based on user votes.",
+                          "theme": ""
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "dbe8e6b6-35c8-4e19-8bcd-e4cea43dcd2c",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=401459&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "95241",
+              "name": "Ras Sagar Sweet House",
+              "cloudinaryImageId": "f6fcc10887e29b58f7ab484f7eb2c389",
+              "locality": "Sahara Darwaja",
+              "areaName": "Umarwada",
+              "costForTwo": "₹350 for two",
+              "cuisines": ["Sweets", "Snacks"],
+              "avgRating": 4.3,
+              "veg": true,
+              "parentId": "167095",
+              "avgRatingString": "4.3",
+              "totalRatingsString": "1.2K+",
+              "promoted": true,
+              "adTrackingId": "cid=d5162c06-6e27-4cf7-ae36-a60c7a77c924~p=18~adgrpid=d5162c06-6e27-4cf7-ae36-a60c7a77c924#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=95241~plpr=COLLECTION~eid=86656397-98b4-44c1-8b5f-c19ee4f7e5e1~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 20,
+                "lastMileTravel": 1.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "1.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 21:30:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "android/static-assets/icons/big_rx.png",
+                    "description": "bolt!"
+                  },
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "Serves only 100% vegetarian food, with no non-veg items."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "description": "bolt!",
+                          "imageId": "android/static-assets/icons/big_rx.png"
+                        }
+                      },
+                      {
+                        "attributes": {
+                          "description": "Serves only 100% vegetarian food, with no non-veg items.",
+                          "theme": "",
+                          "imageId": "v1695133679/badges/Pure_Veg111.png"
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹89",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "d5162c06-6e27-4cf7-ae36-a60c7a77c924",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=95241&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "790368",
+              "name": "Valkeshwar Khaman & Locho",
+              "cloudinaryImageId": "10440883d4ff23d33f7e51f23867c1b0",
+              "locality": "Anand Mahal Road",
+              "areaName": "Adajan",
+              "costForTwo": "₹400 for two",
+              "cuisines": ["Beverages", "Snacks"],
+              "avgRating": 4.7,
+              "veg": true,
+              "parentId": "221182",
+              "avgRatingString": "4.7",
+              "totalRatingsString": "45",
+              "promoted": true,
+              "adTrackingId": "cid=c8270ad3-a7d7-4e1e-bccf-66422b568993~p=19~adgrpid=c8270ad3-a7d7-4e1e-bccf-66422b568993#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=790368~plpr=COLLECTION~eid=35b318f2-4b81-416c-884d-e12b3273baba~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 23,
+                "lastMileTravel": 5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "5.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 13:00:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "Serves only 100% vegetarian food, with no non-veg items."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "theme": "",
+                          "imageId": "v1695133679/badges/Pure_Veg111.png",
+                          "description": "Serves only 100% vegetarian food, with no non-veg items."
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹29",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "c8270ad3-a7d7-4e1e-bccf-66422b568993",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=790368&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "950256",
+              "name": "Jay Ganesh Aloopuri & Rasavala Khaman Veg Khavsa",
+              "cloudinaryImageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/31/2b4ddc26-c1a4-4a30-896c-326aa982fd1b_fa267b32-fb58-4f75-a820-518b34cd655d.jpg",
+              "locality": "Nana Varachha",
+              "areaName": "Nana Varachha",
+              "costForTwo": "₹120 for two",
+              "cuisines": ["Grill", "Street Food", "Fast Food", "Cafe"],
+              "avgRating": 4.1,
+              "veg": true,
+              "parentId": "556467",
+              "avgRatingString": "4.1",
+              "totalRatingsString": "199",
+              "promoted": true,
+              "adTrackingId": "cid=ca467828-df7c-4e61-b615-5aec3e373527~p=23~adgrpid=ca467828-df7c-4e61-b615-5aec3e373527#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=950256~plpr=COLLECTION~eid=d96159c0-db9d-41ba-88c2-151605c0825b~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 61,
+                "lastMileTravel": 6.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "61-66 mins",
+                "lastMileTravelString": "6.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 09:00:00",
+                "opened": true
+              },
+              "badges": {},
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {},
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "10% OFF",
+                "subHeader": "UPTO ₹40",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "\u003C3"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "ca467828-df7c-4e61-b615-5aec3e373527",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=950256&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "105629",
+              "name": "Jalaram Khaman House",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/23/6ae855fb-2e75-4c71-9f1a-738ebea91f8f_105629 (1).jpg",
+              "locality": "Sagrampura",
+              "areaName": "Adajan",
+              "costForTwo": "₹200 for two",
+              "cuisines": [
+                "Gujarati",
+                "Fast Food",
+                "Snacks",
+                "Street Food",
+                "Indian"
+              ],
+              "avgRating": 4.3,
+              "veg": true,
+              "parentId": "7625",
+              "avgRatingString": "4.3",
+              "totalRatingsString": "1.3K+",
+              "promoted": true,
+              "adTrackingId": "cid=99b1af98-24cf-438d-a68d-0e7ce0e1f074~p=24~adgrpid=99b1af98-24cf-438d-a68d-0e7ce0e1f074#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=105629~plpr=COLLECTION~eid=80d10a35-8ddb-4ee1-8764-96c320bc693a~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 25,
+                "lastMileTravel": 7.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "7.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 20:00:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                    "description": "Exclusively available on Swiggy — you won't find it elsewhere."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                          "description": "Exclusively available on Swiggy — you won't find it elsewhere.",
+                          "theme": ""
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "30% OFF",
+                "subHeader": "UPTO ₹75",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "823"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "99b1af98-24cf-438d-a68d-0e7ce0e1f074",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=105629&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "105632",
+              "name": "Jay Jalaram Khaman",
+              "cloudinaryImageId": "a8biwdq5fcmwovkpkjz1",
+              "locality": "Palanpur Road",
+              "areaName": "Palanpore",
+              "costForTwo": "₹250 for two",
+              "cuisines": ["Gujarati", "Snacks"],
+              "avgRating": 4.4,
+              "veg": true,
+              "parentId": "110094",
+              "avgRatingString": "4.4",
+              "totalRatingsString": "2.4K+",
+              "promoted": true,
+              "adTrackingId": "cid=26584a46-338b-46cf-9f19-d8fb9619c13c~p=25~adgrpid=26584a46-338b-46cf-9f19-d8fb9619c13c#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=105632~plpr=COLLECTION~eid=62be61f7-917e-4324-9923-55ad9f3b3d53~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 25,
+                "lastMileTravel": 7.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "7.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 14:00:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "Serves only 100% vegetarian food, with no non-veg items."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "imageId": "v1695133679/badges/Pure_Veg111.png",
+                          "description": "Serves only 100% vegetarian food, with no non-veg items.",
+                          "theme": ""
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "26584a46-338b-46cf-9f19-d8fb9619c13c",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=105632&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "71037",
+              "name": "Tipsy Topsy ( since 1987 )",
+              "cloudinaryImageId": "iwpeojz7oypwikw1slrw",
+              "locality": "Gandhi Smruti Bhavan",
+              "areaName": "Nanpura",
+              "costForTwo": "₹400 for two",
+              "cuisines": [
+                "North Indian",
+                "Thalis",
+                "Chinese",
+                "Fast Food",
+                "Street Food",
+                "Snacks"
+              ],
+              "avgRating": 4.5,
+              "veg": true,
+              "parentId": "694811",
+              "avgRatingString": "4.5",
+              "totalRatingsString": "18K+",
+              "promoted": true,
+              "adTrackingId": "cid=bb576065-4c27-4abd-bfe8-87068269e5ef~p=27~adgrpid=bb576065-4c27-4abd-bfe8-87068269e5ef#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=71037~plpr=COLLECTION~eid=3add9b71-75f9-4e22-b45c-0aeb42a614c3~srvts=1781579282301~collid=80423",
+              "sla": {
+                "deliveryTime": 29,
+                "lastMileTravel": 3.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "3.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-06-16 22:00:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "Serves only 100% vegetarian food, with no non-veg items."
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "imageId": "v1695133679/badges/Pure_Veg111.png",
+                          "description": "Serves only 100% vegetarian food, with no non-veg items.",
+                          "theme": ""
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "70% OFF",
+                "subHeader": "UPTO ₹130",
+                "logoCtx": {
+                  "text": "BENEFITS"
+                }
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {},
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+              "campaignId": "bb576065-4c27-4abd-bfe8-87068269e5ef",
+              "priceComparisonComms": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=71037&source=collection&query=Dhokla",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      }
+    ]
+  }
+}
